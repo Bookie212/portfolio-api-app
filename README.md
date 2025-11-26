@@ -29,7 +29,7 @@ portfolio-api/
 
 If you are setting this up from a git repo:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:Bookie212/portfolio-api-app.git
 cd portfolio-api
 ```
 
